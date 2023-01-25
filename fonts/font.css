@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Buenos Aires";
+  src: url("../fonts/Buenos\ Aires-Regular.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Buenos Aires";
+  src: url("../fonts/Buenos\ Aires-RegularItalic.otf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Buenos Aires";
+  src: url("../fonts/Buenos\ Aires-Bold.otf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Buenos Aires";
+  src: url("../fonts/Buenos\ Aires-BoldItalic.otf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
